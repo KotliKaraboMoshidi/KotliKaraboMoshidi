@@ -1,4 +1,4 @@
-As a graduate in mathematical science and an honors student in computer science, I possess a robust foundation in both theoretical knowledge and practical application.
+As a graduate in mathematical science and an honors student in computer sciences, I possess a robust foundation in both theoretical knowledge and practical application.
 My studies have equipped me with advanced skills in mathematical analysis, computational modeling, and algorithm development. Delving into complex topics such as the 
 mathematical theory of electromagnetism and special relativity has provided me with a deep understanding of fundamental principles and their real-world implications. 
 Concurrently, my coursework in computer science has offered expertise in programming languages, data structures, and software development methodologies. 
